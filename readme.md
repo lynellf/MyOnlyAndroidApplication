@@ -1,4 +1,4 @@
-# My First Attempt at Learning Android Development
+My First Attempt at Learning Android Development
 ===
 I found a cool relic on one of my old hard drives.
 
